@@ -55,12 +55,12 @@ html {
   @include list-unstyled;
 }
 .show {
-  width: 500px;
+  width: 100%;
   height: 400px;
 }
 
 .small-img {
-  width: 400px;
+  width: 100%;
   height: 100px;
   margin-top: 10px;
   position: relative;
